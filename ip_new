@@ -1639,30 +1639,12 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 ```````` SPORT LOKAL ````````
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 1].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co.com/zr3KPMd/sportstars.png" group-title="SPORT LOKAL", SPORTSTARS
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="Sportstars2 - [Channel 2].id" tvg-name="Sportstars2" tvg-logo="https://i.ibb.co.com/zr3KPMd/sportstars.png" group-title="SPORT LOKAL", SPORTSTARS2
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
-
-
-#EXTINF:-1 tvg-id="LIGA1 - [Channel 3].id" tvg-name="LIGA1" tvg-logo="https://i.ibb.co.com/zr3KPMd/sportstars.png" group-title="SPORT LOKAL", LIGA1
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",LIGA 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be_output_0.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV - [Channel 4].id" tvg-name="SPOTV" tvg-logo="https://i.ibb.co.com/zr3KPMd/sportstars.png" group-title="SPORT LOKAL", SPOTV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv-avc1_1000000=4.m3u8
+
