@@ -141,7 +141,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://logodix.com/logo/1946951.jpg", iNews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 
